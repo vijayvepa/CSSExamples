@@ -1,0 +1,22 @@
+
+
+img{
+    max-width:300px;
+    max-height: 300px;
+    overflow: clip;
+}
+
+*{
+    outline: 1px #ccc solid;
+    margin: 10px;
+    padding: 10px;
+    font-family: "Helvetica Neue", sans-serif;
+}
+
+body, nav, main, article{
+    display: flex;
+}
+
+body, article{
+    flex-direction: column;
+}

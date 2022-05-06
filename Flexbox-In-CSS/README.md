@@ -14,3 +14,8 @@ See [TabbedNavigationMenuVertical](./TabbedNavigationMenuVertical/Content.html)
 ## Flex Flow
 ![](Images/FlexFlow.png)
 See [FlexFlow](FlexFlow/Content.html)
+
+## Basic Page Layout
+![](Images/BasicPageLayout.png)
+
+See [PageWithNavigationMenu](PageWithNavigationMenu/Content.html)
